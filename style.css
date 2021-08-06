@@ -6,6 +6,7 @@
   border-radius: 0;
   box-shadow:5px 5px 5px white;
   background: navy ; 
+  font-family: 'Lexend', sans-serif;
 }
 .heading_div
 {
@@ -15,19 +16,23 @@
   border-radius: 20px; 
   color: white;
   box-shadow:5px 5px 5px 10px white;
+  font-family: 'Lexend', sans-serif;
 }
 .heading_div2
 {
   font-size: 18px ;
+  font-family: 'Lexend', sans-serif;
 }
 .result_para_tag
 {
   box-shadow:5px 5px 5px white;
   font-size: 20px;
+  font-family: 'Lexend', sans-serif;
 }
 .result_para_tag span
 {
   white-space: pre-line;
+  font-family: 'Lexend', sans-serif;
 }
 .copy_right_footer {
   position: fixed;
@@ -37,6 +42,7 @@
   background-color: navy;
   line-height: 3;
   text-align: center;
+  font-family: 'Lexend', sans-serif;
 }
 canvas 
 {
@@ -54,4 +60,40 @@ h3
   border-radius: 20px; 
   color: white;
   box-shadow:5px 5px 5px white;
+  font-family: 'Lexend', sans-serif;
 }
+
+#a
+{
+  background: navy ; 
+  border-radius: 5px; 
+  color: white;
+  box-shadow:5px 5px 5px white;
+  font-family: 'Lexend', sans-serif;
+}
+
+#b
+{
+  background: navy ; 
+  border-radius: 5px; 
+  color: white;
+  box-shadow:5px 5px 5px white;
+  font-family: 'Lexend', sans-serif;
+}
+
+#result_object_name
+{
+  background: navy ; 
+  border-radius: 5px; 
+  color: white;
+  font-family: 'Lexend', sans-serif;
+}
+
+#result_object_accuracy
+{
+  background: navy ; 
+  border-radius: 5px; 
+  color: white;
+  font-family: 'Lexend', sans-serif;
+}
+
